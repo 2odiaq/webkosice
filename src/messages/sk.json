@@ -174,12 +174,11 @@
       "basic": {
         "name": "Basic",
         "subtitle": "Štart",
-        "tagline": "Ideálne pre rýchly a cenovo dostupný štart online.",
+        "tagline": "Pre freelancerov a živnostníkov, ktorí chcú byť online rýchlo a bez veľkých investícií.",
         "setup": "99 € – 199 €",
         "monthly": "15 € – 25 €",
         "features": [
           "1 – 3 podstránky",
-          "Web vytvorený s pomocou AI",
           "Hosting v cene",
           "Správa domény",
           "E-mailová podpora"
@@ -188,7 +187,7 @@
       "standard": {
         "name": "Standard",
         "subtitle": "Rastúca firma",
-        "tagline": "Komplexný firemný web s priestorom na rast a marketing.",
+        "tagline": "Ideálna voľba pre väčšinu firiem — kompletný web, SEO základ a priestor na rast. Najobľúbenejší balík z dobrého dôvodu.",
         "setup": "249 € – 449 €",
         "monthly": "25 € – 45 €",
         "features": [
@@ -202,7 +201,7 @@
       "premium": {
         "name": "Premium",
         "subtitle": "Plný rozsah",
-        "tagline": "Rozšírený web s blogom, rezerváciami a prioritnou podporou.",
+        "tagline": "Pre ambiciózne firmy s blogom, rezervačným systémom a vyššími nárokmi na obsah a podporu.",
         "setup": "549 € – 949 €",
         "monthly": "55 € – 95 €",
         "features": [
@@ -243,7 +242,7 @@
           "Hosting a domény nastavené za vás"
         ],
         "idealFor": "Remeselníci, kliniky, reštaurácie, malé a stredné firmy",
-        "priceRange": "od 1 200 €"
+        "priceRange": "od 249 €"
       },
       "eshop": {
         "title": "E-shopy",
@@ -258,7 +257,7 @@
           "GDPR, súhlasy, VOP"
         ],
         "idealFor": "Menšie značky, butiky, remeselníci, začínajúci predajcovia",
-        "priceRange": "od 2 500 €"
+        "priceRange": "Dohovoríme sa"
       },
       "webapp": {
         "title": "Webové aplikácie",
@@ -273,7 +272,7 @@
           "Integrácie na tretie strany (API)"
         ],
         "idealFor": "Firmy, ktoré potrebujú zautomatizovať proces alebo spustiť digitálny produkt",
-        "priceRange": "od 4 000 €"
+        "priceRange": "Dohovoríme sa"
       },
       "landing": {
         "title": "Landing pages",
@@ -288,7 +287,7 @@
           "Spustenie do 5–10 dní"
         ],
         "idealFor": "Kampane, produktové uvedenia, reklamné klikacie stránky",
-        "priceRange": "od 600 €"
+        "priceRange": "od 99 €"
       },
       "redesign": {
         "title": "Redizajn existujúceho webu",
@@ -303,7 +302,7 @@
           "Plán A/B testov"
         ],
         "idealFor": "Firmy so starším webom, ktorý stratil konverziu alebo vyzerá zastaralo",
-        "priceRange": "od 1 500 €"
+        "priceRange": "od 249 €"
       },
       "seo": {
         "title": "SEO & optimalizácia výkonu",
@@ -318,7 +317,7 @@
           "Sitemap, robots.txt, interné linkovanie"
         ],
         "idealFor": "Weby, ktoré pomaly načítavajú alebo nemajú organickú návštevnosť",
-        "priceRange": "od 400 €"
+        "priceRange": "od 149 €"
       }
     }
   },
@@ -480,7 +479,7 @@
       },
       "price": {
         "question": "Koľko stojí nový web?",
-        "answer": "Záleží od rozsahu. Prezentačné weby štartujú od 1 200 €, e-shopy od 2 500 €, webové aplikácie od 4 000 €. Pred štartom vždy dostanete fixnú cenovú ponuku — žiadne skryté náklady."
+        "answer": "Závisí od balíka a rozsahu. Základný web (Basic) štartuje od 99 € jednorazovo + od 15 €/mesiac. Štandardný firemný web (Standard) od 249 € jednorazovo + od 25 €/mesiac. Na e-shopy a webové aplikácie cenu dohovoríme individuálne. Presnú fixnú cenu dostanete vždy pred štartom — žiadne skryté náklady."
       },
       "ownership": {
         "question": "Komu patrí kód a doména?",
