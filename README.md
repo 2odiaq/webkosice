@@ -32,6 +32,7 @@ All variables are optional for local development. Set them in production.
 | --- | --- |
 | `NEXT_PUBLIC_SITE_URL` | Canonical public URL (used for SEO, OG, sitemap). Example: `https://webkosice.sk` |
 | `CONTACT_EMAIL` | Where contact-form submissions are delivered |
+| `RESEND_FROM` | Sender address on your [Resend](https://resend.com) verified domain (e.g. `noreply@send.webkosice.com` or `WebKosice <noreply@send.webkosice.com>`). If unset, defaults to `noreply@send.webkosice.com`. |
 | `RESEND_API_KEY` | If set, the contact form sends real emails via [Resend](https://resend.com). If not set, the form gracefully falls back to a `mailto:` flow — still fully functional. |
 
 See [`.env.example`](./.env.example).
@@ -112,7 +113,7 @@ src/
 
 - Create an account at [resend.com](https://resend.com).
 - Add + verify your domain there (single SPF/DKIM record).
-- Generate an API key, set `RESEND_API_KEY` + `CONTACT_EMAIL` in Vercel.
+- Generate an API key, set `RESEND_API_KEY` + `CONTACT_EMAIL` in Vercel. Optionally set `RESEND_FROM` (defaults to `noreply@send.webkosice.com`).
 - Update the `from:` address in [`src/lib/email.ts`](src/lib/email.ts) from `onboarding@resend.dev` to something like `hello@yourdomain.sk` once your domain is verified.
 
 ## Checklist before launch

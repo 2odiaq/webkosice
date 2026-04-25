@@ -14,6 +14,17 @@ export function hasResend() {
   return Boolean(process.env.RESEND_API_KEY);
 }
 
+function resendFromHeader(): string {
+  const raw = process.env.RESEND_FROM?.trim();
+  if (!raw) {
+    return `${site.name} <noreply@send.webkosice.com>`;
+  }
+  if (raw.includes("<") && raw.includes(">")) {
+    return raw;
+  }
+  return `${site.name} <${raw}>`;
+}
+
 export async function sendContactEmail(args: SendArgs) {
   if (!hasResend()) {
     return { ok: false, reason: "no-resend" as const };
@@ -37,7 +48,7 @@ export async function sendContactEmail(args: SendArgs) {
   ].join("\n");
 
   const { error } = await resend.emails.send({
-    from: `${site.name} <onboarding@resend.dev>`,
+    from: resendFromHeader(),
     to: destination,
     replyTo: args.email,
     subject,
