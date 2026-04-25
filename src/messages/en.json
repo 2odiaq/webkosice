@@ -1,0 +1,513 @@
+{
+  "brand": {
+    "name": "WebKosice",
+    "tagline": "Websites that sell. Custom-built.",
+    "location": "Kosice, Slovakia"
+  },
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "portfolio": "Work",
+    "about": "About",
+    "contact": "Contact",
+    "cta": "Get a quote",
+    "menu": "Menu",
+    "close": "Close"
+  },
+  "locale": {
+    "switchTo": "Switch language",
+    "sk": "SK",
+    "en": "EN"
+  },
+  "home": {
+    "meta": {
+      "title": "WebKosice — Custom Web Development in Kosice",
+      "description": "I design and build fast, modern websites, e-shops and web applications. Kosice and all of Slovakia. Reply within 24 hours."
+    },
+    "hero": {
+      "kicker": "> freelance_web_developer.sk",
+      "title": "Websites that <accent>sell</accent>. Built bespoke for your business.",
+      "subtitle": "I design and build fast, modern websites, e-shops and web applications. No templates, no bloat — focused on performance, SEO and conversion.",
+      "ctaPrimary": "Get a free quote",
+      "ctaSecondary": "See my work",
+      "bullets": {
+        "one": "Reply within 24 h",
+        "two": "Fixed price upfront",
+        "three": "The code is yours"
+      },
+      "code": {
+        "title": "what_i_build.ts",
+        "lines": [
+          "const services = [",
+          "  'custom websites',",
+          "  'online stores',",
+          "  'web applications',",
+          "  'landing pages',",
+          "  'SEO & performance'",
+          "];",
+          "",
+          "export default services;"
+        ]
+      }
+    },
+    "trust": {
+      "title": "Why clients choose to work with me",
+      "items": {
+        "speed": {
+          "title": "Delivery speed",
+          "description": "Average site live in 3–6 weeks. A landing page in as little as 5 days."
+        },
+        "price": {
+          "title": "Transparent pricing",
+          "description": "You know the final price before we start. No surprises."
+        },
+        "ownership": {
+          "title": "The code is yours",
+          "description": "Full access to the codebase, hosting and domain. No lock-in."
+        },
+        "support": {
+          "title": "Post-launch support",
+          "description": "I don't disappear after launch — I stick around to help you grow."
+        }
+      }
+    },
+    "services": {
+      "kicker": "> services",
+      "title": "What I can build for you",
+      "subtitle": "From a simple presentation site to a complex web app — always detail-focused, fast and outcome-driven.",
+      "cta": "See all services"
+    },
+    "projects": {
+      "kicker": "> recent_work",
+      "title": "Selected projects",
+      "subtitle": "Live projects I've recently taken to production — from a Canadian e-shop to a law firm in Kosice.",
+      "cta": "See all work",
+      "viewCase": "Read the case study",
+      "sampleBadge": "Sample case study"
+    },
+    "process": {
+      "kicker": "> process",
+      "title": "How we work together",
+      "subtitle": "A clear, predictable path from the first call through launch and beyond.",
+      "startLabel": "Kick-off",
+      "endLabel": "Launch & grow",
+      "steps": {
+        "discovery": {
+          "title": "1. Discovery call",
+          "description": "I learn your business, audience and goals. Free and no strings attached."
+        },
+        "proposal": {
+          "title": "2. Proposal & plan",
+          "description": "You get a fixed price, scope and timeline. We sign off together."
+        },
+        "design": {
+          "title": "3. Design & copy",
+          "description": "I design UX/UI and we polish the copy. You approve every step."
+        },
+        "develop": {
+          "title": "4. Development",
+          "description": "Clean, fast code. Regular previews so you're always in control."
+        },
+        "launch": {
+          "title": "5. Launch",
+          "description": "I deploy to hosting, set up domains, SEO basics and analytics."
+        },
+        "support": {
+          "title": "6. Support & growth",
+          "description": "I'm here for updates, optimisations and new features."
+        }
+      }
+    },
+    "stack": {
+      "kicker": "> tech_stack",
+      "title": "Modern tech I trust",
+      "subtitle": "Proven, performant, future-proof tools. What I build today will still run beautifully in 5 years."
+    },
+    "testimonials": {
+      "badge": "Reviews",
+      "title": "What clients say",
+      "subtitle": "Rated 5.0 by company owners and startup founders I've worked with.",
+      "bottomTitle": "We'd love to put your review here too.",
+      "bottomSubtitle": "Just a few weeks of working together — and it's here.",
+      "bottomCta": "Book an intro call"
+    },
+    "faq": {
+      "kicker": "> faq",
+      "title": "Frequently asked questions",
+      "subtitle": "Didn't find what you needed? Drop me a line and I'll help."
+    },
+    "cta": {
+      "title": "Ready to take your business further online?",
+      "subtitle": "Free, no-obligation consultation. Reply within 24 hours. Let's start with a chat about your goals.",
+      "button": "Get in touch",
+      "secondary": "or email me at:"
+    }
+  },
+  "showcase": {
+    "kicker": "> showcase",
+    "title": "Industries I'm at home in",
+    "subtitle": "Same craft, different stories — e-shops, services, agencies and startups alike.",
+    "categories": {
+      "ecommerce": "E-commerce",
+      "legal": "Law firm",
+      "cafe": "Café & roastery",
+      "restaurant": "Restaurant",
+      "fitness": "Fitness & wellness",
+      "realestate": "Real estate",
+      "agency": "Creative studio",
+      "startup": "SaaS & startups"
+    }
+  },
+  "pricing": {
+    "kicker": "> pricing_plans",
+    "title": "Packages and pricing",
+    "subtitle": "Transparent pricing. A one-time setup fee for building your site plus a small monthly fee covering hosting, domain and support. No hidden costs.",
+    "popularBadge": "Most popular",
+    "setupLabel": "One-time setup fee",
+    "monthlyLabel": "Monthly fee",
+    "includesLabel": "What's included",
+    "monthSuffix": "/month",
+    "cta": "Choose this plan",
+    "ctaHref": "/contact",
+    "note": "Prices are indicative and depend on scope and content. You'll get an exact quote after the discovery call.",
+    "plans": {
+      "basic": {
+        "name": "Basic",
+        "subtitle": "Quick start",
+        "tagline": "Perfect for an affordable, fast launch online.",
+        "setup": "€99 – €199",
+        "monthly": "€15 – €25",
+        "features": [
+          "1 – 3 pages",
+          "Site built with AI assistance",
+          "Hosting included",
+          "Domain management",
+          "Email support"
+        ]
+      },
+      "standard": {
+        "name": "Standard",
+        "subtitle": "Growing business",
+        "tagline": "A full-featured business site with room for marketing and growth.",
+        "setup": "€249 – €449",
+        "monthly": "€25 – €45",
+        "features": [
+          "5 – 7 pages",
+          "Basic SEO setup",
+          "Contact form",
+          "Regular updates",
+          "Minor edits included"
+        ]
+      },
+      "premium": {
+        "name": "Premium",
+        "subtitle": "Full scope",
+        "tagline": "Extended site with blog, booking forms and priority support.",
+        "setup": "€549 – €949",
+        "monthly": "€55 – €95",
+        "features": [
+          "8 – 10 pages",
+          "Blog setup",
+          "Booking forms",
+          "Advanced edits",
+          "Priority support"
+        ]
+      }
+    }
+  },
+  "services": {
+    "meta": {
+      "title": "Services — WebKosice",
+      "description": "Custom website development, e-shops, web applications, landing pages, redesigns and SEO."
+    },
+    "hero": {
+      "kicker": "> services",
+      "title": "Services tailored to your business",
+      "subtitle": "Every project starts with a conversation, not a template. Here's what I can help you with."
+    },
+    "pricingLabel": "Pricing",
+    "deliverablesLabel": "What you get",
+    "idealForLabel": "Ideal for",
+    "ctaLabel": "I'm interested",
+    "items": {
+      "business": {
+        "title": "Business websites",
+        "tagline": "A business card that sells for you",
+        "description": "A modern, fast website that presents your company, builds trust and generates leads. Custom-coded — no templates.",
+        "deliverables": [
+          "Custom UI/UX design",
+          "Responsive frontend",
+          "CMS for easy content updates",
+          "Contact forms with email integration",
+          "On-page SEO basics",
+          "Hosting and domain setup"
+        ],
+        "idealFor": "Trades, clinics, restaurants, SMBs",
+        "priceRange": "from €1,200"
+      },
+      "eshop": {
+        "title": "Online stores",
+        "tagline": "A sales channel that works 24/7",
+        "description": "E-commerce built on modern platforms focused on speed, conversion and simple management. Integrated with payment gateways, shipping carriers and accounting tools.",
+        "deliverables": [
+          "Product catalog with filters",
+          "Cart, checkout, payment gateways (Stripe, GoPay)",
+          "Carrier integrations (Packeta, GLS)",
+          "Order management admin",
+          "SEO & Google Merchant feed",
+          "GDPR, consents, terms"
+        ],
+        "idealFor": "Small brands, boutiques, artisans, emerging sellers",
+        "priceRange": "from €2,500"
+      },
+      "webapp": {
+        "title": "Web applications",
+        "tagline": "A digital tool built around your process",
+        "description": "When a standard website isn't enough — booking systems, internal tools, dashboards, SaaS products. From prototype to production app.",
+        "deliverables": [
+          "Architecture & database design",
+          "Authentication and user roles",
+          "Next.js / React frontend",
+          "Node.js / serverless backend API",
+          "Admin interface",
+          "Third-party API integrations"
+        ],
+        "idealFor": "Companies that need to automate a process or launch a digital product",
+        "priceRange": "from €4,000"
+      },
+      "landing": {
+        "title": "Landing pages",
+        "tagline": "One page, one goal — conversion",
+        "description": "A high-converting microsite for a single product, campaign or event. Quickly launched, wired up to analytics and A/B testing.",
+        "deliverables": [
+          "Conversion-focused copywriting",
+          "Custom visual design",
+          "Forms integrated with CRM/email",
+          "Meta / Google pixel setup",
+          "Blazing-fast load (Lighthouse 95+)",
+          "Launch in 5–10 days"
+        ],
+        "idealFor": "Campaigns, product launches, ad click-through pages",
+        "priceRange": "from €600"
+      },
+      "redesign": {
+        "title": "Redesign of existing sites",
+        "tagline": "Your old website deserves a second chance",
+        "description": "Audit, new visual identity and technical overhaul of an existing site. I keep what works, fix what doesn't, and speed up what's slow.",
+        "deliverables": [
+          "UX audit and competitive analysis",
+          "Brand-aligned new design",
+          "Content migration and redirects",
+          "Technical refactor + speed",
+          "Before/after SEO checklist",
+          "A/B testing roadmap"
+        ],
+        "idealFor": "Companies with an older site that's losing conversions or looks dated",
+        "priceRange": "from €1,500"
+      },
+      "seo": {
+        "title": "SEO & performance",
+        "tagline": "Faster site, more organic traffic",
+        "description": "Technical SEO, Core Web Vitals, structured data and performance optimisation. Measurable results tracked via Google Search Console and PageSpeed Insights.",
+        "deliverables": [
+          "Technical SEO audit",
+          "On-page optimisation",
+          "Schema.org structured data",
+          "Image and code optimisation",
+          "Core Web Vitals (LCP, CLS, INP)",
+          "Sitemap, robots.txt, internal linking"
+        ],
+        "idealFor": "Sites that load slowly or don't bring in organic traffic",
+        "priceRange": "from €400"
+      }
+    }
+  },
+  "portfolio": {
+    "meta": {
+      "title": "Work — WebKosice",
+      "description": "Case studies and project samples — websites, e-shops and web applications."
+    },
+    "hero": {
+      "kicker": "> portfolio",
+      "title": "Work and case studies",
+      "subtitle": "Selected projects I've worked on recently. Each one opens up a view into the challenge, solution and outcomes."
+    },
+    "sampleBadge": "Sample case study",
+    "viewProject": "Read the case study",
+    "visitSite": "Visit the site",
+    "notFound": {
+      "title": "Project not found",
+      "back": "Back to portfolio"
+    },
+    "detail": {
+      "overview": "Overview",
+      "challenge": "Challenge",
+      "solution": "Solution",
+      "results": "Results",
+      "stack": "Tech stack",
+      "services": "Services delivered",
+      "year": "Year",
+      "client": "Client",
+      "duration": "Duration",
+      "backToAll": "All work"
+    }
+  },
+  "about": {
+    "meta": {
+      "title": "About — WebKosice",
+      "description": "I'm a freelance web developer based in Kosice. I design and build websites, e-shops and web applications."
+    },
+    "hero": {
+      "kicker": "> about_me",
+      "title": "I'm a <accent>freelance web developer</accent> in Kosice",
+      "lead": "I've been building for the web for over 5 years — from simple presentation sites to complex web applications for companies across Slovakia. I work as a one-person studio: you deal directly with me, not an account manager.",
+      "secondary": "I believe a good website isn't about pretty visuals or fast code — it's about results. That's why every project starts with questions, not templates."
+    },
+    "valuesTitle": "Principles I live by",
+    "values": {
+      "craft": {
+        "title": "Craftsmanship",
+        "description": "Every line of code is written with intent. No bloated, auto-generated JavaScript."
+      },
+      "honesty": {
+        "title": "Straight talk",
+        "description": "I'll tell you the truth — even when it's uncomfortable. Clear deadlines, clear pricing."
+      },
+      "longterm": {
+        "title": "Long-term partnership",
+        "description": "I don't do one-shot projects. I want your site to grow along with your business."
+      },
+      "simple": {
+        "title": "Simplicity over complexity",
+        "description": "The best solution is the one that's just enough. Unnecessary tech is a liability."
+      }
+    },
+    "stackTitle": "What I work with",
+    "stackSubtitle": "The tools I use daily. Not all of them fit every project — I pick based on what makes sense for you.",
+    "processTitle": "Here's what working together looks like",
+    "cta": {
+      "title": "Let's talk about your project",
+      "subtitle": "Discovery call is always free and no-obligation.",
+      "button": "Get in touch"
+    }
+  },
+  "contact": {
+    "meta": {
+      "title": "Contact — WebKosice",
+      "description": "Tell me about your project. Reply within 24 hours."
+    },
+    "hero": {
+      "kicker": "> contact",
+      "title": "Let's talk about your project",
+      "subtitle": "Drop me a few lines and I'll get back to you within 24 hours. The discovery call is free."
+    },
+    "form": {
+      "name": "Name",
+      "namePlaceholder": "Your name",
+      "email": "Email",
+      "emailPlaceholder": "you@email.com",
+      "company": "Company (optional)",
+      "companyPlaceholder": "Company name",
+      "budget": "Approximate budget",
+      "budgetOptions": {
+        "small": "under €1,500",
+        "medium": "€1,500 – €5,000",
+        "large": "€5,000 – €15,000",
+        "enterprise": "over €15,000",
+        "unsure": "not sure yet"
+      },
+      "message": "Message",
+      "messagePlaceholder": "What's your project about? What are your goals? What's the deadline?",
+      "submit": "Send message",
+      "submitting": "Sending…",
+      "consent": "By submitting, you agree to me processing your contact details to reply.",
+      "required": "Required field",
+      "invalidEmail": "Invalid email",
+      "tooShort": "Message is too short",
+      "success": "Thanks — I'll get back to you within 24 hours.",
+      "successMailto": "Click the button below to send the email from your mail client.",
+      "openMail": "Open email",
+      "copyEmail": "Copy email",
+      "copied": "Copied",
+      "error": "Something went wrong. Please try again or email me directly."
+    },
+    "info": {
+      "title": "Direct contact",
+      "emailLabel": "Email",
+      "phoneLabel": "Phone",
+      "locationLabel": "Location",
+      "responseLabel": "Response time",
+      "responseValue": "within 24 hours",
+      "hoursLabel": "Working hours",
+      "hoursValue": "Mon – Fri, 9:00 – 18:00"
+    },
+    "faqTitle": "Quick answers"
+  },
+  "footer": {
+    "tagline": "Custom websites and web applications. Kosice, Slovakia.",
+    "explore": "Explore",
+    "legal": "Legal",
+    "privacy": "Privacy policy",
+    "terms": "Terms of service",
+    "social": "Follow me",
+    "rights": "All rights reserved.",
+    "madeIn": "Designed and built in Kosice."
+  },
+  "testimonials": {
+    "items": {
+      "one": {
+        "quote": "The new website brought us 40% more inquiries in the first month. Communication throughout the project was excellent.",
+        "author": "Maria K.",
+        "role": "Owner, artisan bakery"
+      },
+      "two": {
+        "quote": "Understands tech and business alike. Advised me where to save and where to invest. Highly recommended.",
+        "author": "Peter D.",
+        "role": "Director, construction company"
+      },
+      "three": {
+        "quote": "Flexible, fast, reliable. Our e-shop runs smoothly and even my mom can handle the admin.",
+        "author": "Lucia H.",
+        "role": "Founder, fashion brand"
+      }
+    }
+  },
+  "faq": {
+    "items": {
+      "timeline": {
+        "question": "How long does it take to build a website?",
+        "answer": "A simple presentation site 2–4 weeks, a standard business site 4–6 weeks, an e-shop 6–10 weeks, a web app 8+ weeks. You get an exact timeline with the quote."
+      },
+      "price": {
+        "question": "How much does a new website cost?",
+        "answer": "It depends on scope. Presentation sites start at €1,200, e-shops at €2,500, web applications at €4,000. You always get a fixed quote upfront — no hidden costs."
+      },
+      "ownership": {
+        "question": "Who owns the code and domain?",
+        "answer": "You do. You get full access to the source code (GitHub/GitLab), hosting and domain. I never lock you in."
+      },
+      "hosting": {
+        "question": "What about hosting?",
+        "answer": "I recommend Vercel or Netlify for websites and a VPS for heavier applications. I'll advise on the cheapest sensible option, set it up, and you pay the provider directly."
+      },
+      "support": {
+        "question": "What happens after launch?",
+        "answer": "I stick around. I offer monthly care packages or bill hourly for smaller changes. I never leave you hanging."
+      },
+      "cms": {
+        "question": "Can I edit the site myself?",
+        "answer": "Yes. For business sites I use a simple CMS (e.g. Sanity or Payload) so you can update text and images without touching code. I walk you through it personally."
+      }
+    }
+  },
+  "common": {
+    "sampleNotice": "Sample case study"
+  },
+  "errors": {
+    "notFound": {
+      "title": "Page not found",
+      "subtitle": "Looks like you hit a dead end. Let's head back.",
+      "home": "Back to home"
+    }
+  }
+}

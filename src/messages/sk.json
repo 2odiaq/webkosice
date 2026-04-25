@@ -1,0 +1,513 @@
+{
+  "brand": {
+    "name": "WebKosice",
+    "tagline": "Weby, ktoré predávajú. Postavené na mieru.",
+    "location": "Košice, Slovensko"
+  },
+  "nav": {
+    "home": "Domov",
+    "services": "Služby",
+    "portfolio": "Práce",
+    "about": "O mne",
+    "contact": "Kontakt",
+    "cta": "Získať ponuku",
+    "menu": "Menu",
+    "close": "Zavrieť"
+  },
+  "locale": {
+    "switchTo": "Prepnúť jazyk",
+    "sk": "SK",
+    "en": "EN"
+  },
+  "home": {
+    "meta": {
+      "title": "WebKosice — Tvorba webov na mieru v Košiciach",
+      "description": "Navrhujem a programujem rýchle, moderné weby, e-shopy a webové aplikácie. Košice a celé Slovensko. Odpoveď do 24 hodín."
+    },
+    "hero": {
+      "kicker": "> freelance_web_developer.sk",
+      "title": "Weby, ktoré <accent>predávajú</accent>. Postavené na mieru vášmu biznisu.",
+      "subtitle": "Navrhujem a programujem rýchle, moderné weby, e-shopy a webové aplikácie. Bez šablón, bez zbytočností, s dôrazom na výkon, SEO a konverziu.",
+      "ctaPrimary": "Získať nezáväznú ponuku",
+      "ctaSecondary": "Pozrieť moje práce",
+      "bullets": {
+        "one": "Odpoveď do 24 h",
+        "two": "Fixná cena pred štartom",
+        "three": "Kód patrí vám"
+      },
+      "code": {
+        "title": "what_i_build.ts",
+        "lines": [
+          "const služby = [",
+          "  'weby na mieru',",
+          "  'e-shopy',",
+          "  'webové aplikácie',",
+          "  'landing pages',",
+          "  'SEO & výkon'",
+          "];",
+          "",
+          "export default služby;"
+        ]
+      }
+    },
+    "trust": {
+      "title": "Prečo klienti volia spoluprácu so mnou",
+      "items": {
+        "speed": {
+          "title": "Rýchlosť dodania",
+          "description": "Priemerný web nasadený za 3–6 týždňov. Landing page aj za 5 dní."
+        },
+        "price": {
+          "title": "Transparentná cena",
+          "description": "Pred štartom viete presne, koľko zaplatíte. Žiadne prekvapenia."
+        },
+        "ownership": {
+          "title": "Kód je váš",
+          "description": "Plný prístup ku kódu, hostingu aj doméne. Žiadna závislosť."
+        },
+        "support": {
+          "title": "Podpora po spustení",
+          "description": "Neodchádzam po launchi. Som k dispozícii na ďalší rozvoj."
+        }
+      }
+    },
+    "services": {
+      "kicker": "> services",
+      "title": "Čo pre vás dokážem postaviť",
+      "subtitle": "Od jednoduchej vizitky po komplexnú webovú aplikáciu — vždy s dôrazom na detail, rýchlosť a výsledky.",
+      "cta": "Pozrieť všetky služby"
+    },
+    "projects": {
+      "kicker": "> recent_work",
+      "title": "Vybrané projekty",
+      "subtitle": "Živé projekty, ktoré som nedávno doviedol do produkcie — od e-shopu v Kanade po advokátsku kanceláriu v Košiciach.",
+      "cta": "Pozrieť všetky práce",
+      "viewCase": "Prečítať prípadovú štúdiu",
+      "sampleBadge": "Ukážková prípadová štúdia"
+    },
+    "process": {
+      "kicker": "> process",
+      "title": "Ako spoločne pracujeme",
+      "subtitle": "Jasný, predvídateľný priebeh od prvého hovoru až po launch a ďalej.",
+      "startLabel": "Štart",
+      "endLabel": "Spustenie a rast",
+      "steps": {
+        "discovery": {
+          "title": "1. Úvodná konzultácia",
+          "description": "Pochopím váš biznis, cieľovku a ciele. Zdarma, bez záväzku."
+        },
+        "proposal": {
+          "title": "2. Ponuka a plán",
+          "description": "Dostanete fixnú cenu, rozsah a časový plán. Odklepneme spolu."
+        },
+        "design": {
+          "title": "3. Dizajn a obsah",
+          "description": "Navrhnem UX/UI a spolu vyladíme texty. Schvaľujete každý krok."
+        },
+        "develop": {
+          "title": "4. Programovanie",
+          "description": "Čistý, rýchly kód. Priebežné ukážky, aby ste mali web pod kontrolou."
+        },
+        "launch": {
+          "title": "5. Spustenie",
+          "description": "Nasadím na hosting, nastavím domény, SEO základy a analytiku."
+        },
+        "support": {
+          "title": "6. Podpora a rast",
+          "description": "Som tu pre ďalšie úpravy, optimalizácie a nové fičúry."
+        }
+      }
+    },
+    "stack": {
+      "kicker": "> tech_stack",
+      "title": "Moderné technológie, ktorým verím",
+      "subtitle": "Používam overené, výkonné a budúcnosťou preverené nástroje. Weby, ktoré postavím dnes, budú fungovať aj o 5 rokov."
+    },
+    "testimonials": {
+      "badge": "Recenzie",
+      "title": "Čo hovoria klienti",
+      "subtitle": "Hodnotenie 5,0 od majiteľov firiem a zakladateľov, ktorí so mnou spolupracovali.",
+      "bottomTitle": "Radi sem pridáme aj vašu recenziu.",
+      "bottomSubtitle": "Stačí pár týždňov spolupráce — a je to tu.",
+      "bottomCta": "Dohodnúť konzultáciu"
+    },
+    "faq": {
+      "kicker": "> faq",
+      "title": "Často kladené otázky",
+      "subtitle": "Nenašli ste odpoveď? Napíšte mi, rád pomôžem."
+    },
+    "cta": {
+      "title": "Pripravení posunúť svoj biznis online?",
+      "subtitle": "Nezáväzná konzultácia. Odpoveď do 24 hodín. Začneme tým, že si pohovoríme o vašich cieľoch.",
+      "button": "Napísať mi",
+      "secondary": "alebo emailom:"
+    }
+  },
+  "showcase": {
+    "kicker": "> showcase",
+    "title": "Odvetvia, v ktorých som doma",
+    "subtitle": "Rovnaké remeslo, rôzne príbehy — e-shopy, služby, agentúry aj startupy.",
+    "categories": {
+      "ecommerce": "E-shop",
+      "legal": "Advokátska kancelária",
+      "cafe": "Kaviareň a pražiareň",
+      "restaurant": "Reštaurácia",
+      "fitness": "Fitness a wellness",
+      "realestate": "Reality",
+      "agency": "Kreatívne štúdio",
+      "startup": "SaaS a startupy"
+    }
+  },
+  "pricing": {
+    "kicker": "> pricing_plans",
+    "title": "Balíky a cenník",
+    "subtitle": "Transparentné ceny. Jednorazový zriaďovací poplatok za dodanie webu + nízky mesačný poplatok za hosting, správu domény a podporu. Bez skrytých nákladov.",
+    "popularBadge": "Najobľúbenejší",
+    "setupLabel": "Jednorazový zriaďovací poplatok",
+    "monthlyLabel": "Mesačný poplatok",
+    "includesLabel": "Čo je zahrnuté",
+    "monthSuffix": "/mesiac",
+    "cta": "Vybrať tento balík",
+    "ctaHref": "/contact",
+    "note": "Ceny sú orientačné a závisia od rozsahu a obsahu. Presnú ponuku pripravím po úvodnej konzultácii.",
+    "plans": {
+      "basic": {
+        "name": "Basic",
+        "subtitle": "Štart",
+        "tagline": "Ideálne pre rýchly a cenovo dostupný štart online.",
+        "setup": "99 € – 199 €",
+        "monthly": "15 € – 25 €",
+        "features": [
+          "1 – 3 podstránky",
+          "Web vytvorený s pomocou AI",
+          "Hosting v cene",
+          "Správa domény",
+          "E-mailová podpora"
+        ]
+      },
+      "standard": {
+        "name": "Standard",
+        "subtitle": "Rastúca firma",
+        "tagline": "Komplexný firemný web s priestorom na rast a marketing.",
+        "setup": "249 € – 449 €",
+        "monthly": "25 € – 45 €",
+        "features": [
+          "5 – 7 podstránok",
+          "Základné SEO nastavenie",
+          "Kontaktný formulár",
+          "Pravidelné aktualizácie",
+          "Menšie úpravy v cene"
+        ]
+      },
+      "premium": {
+        "name": "Premium",
+        "subtitle": "Plný rozsah",
+        "tagline": "Rozšírený web s blogom, rezerváciami a prioritnou podporou.",
+        "setup": "549 € – 949 €",
+        "monthly": "55 € – 95 €",
+        "features": [
+          "8 – 10 podstránok",
+          "Nastavenie blogu",
+          "Rezervačné formuláre",
+          "Pokročilejšie úpravy",
+          "Prioritná podpora"
+        ]
+      }
+    }
+  },
+  "services": {
+    "meta": {
+      "title": "Služby — WebKosice",
+      "description": "Tvorba webov na mieru, e-shopov, webových aplikácií, landing pages, redesignov a SEO optimalizácie."
+    },
+    "hero": {
+      "kicker": "> services",
+      "title": "Služby šité na váš biznis",
+      "subtitle": "Každý projekt začína rozhovorom, nie šablónou. Pozrite si, s čím vám viem pomôcť."
+    },
+    "pricingLabel": "Orientačná cena",
+    "deliverablesLabel": "Čo získate",
+    "idealForLabel": "Vhodné pre",
+    "ctaLabel": "Mám záujem",
+    "items": {
+      "business": {
+        "title": "Firemné weby",
+        "tagline": "Vizitka, ktorá predáva namiesto vás",
+        "description": "Moderný, rýchly web, ktorý prezentuje vašu firmu, získava dôveru a generuje dopyty. Napísaný na mieru — žiadne šablóny.",
+        "deliverables": [
+          "Dizajn na mieru (UI/UX)",
+          "Responzívny frontend",
+          "CMS pre jednoduchú správu obsahu",
+          "Kontaktné formuláre + napojenie na email",
+          "Základná SEO optimalizácia",
+          "Hosting a domény nastavené za vás"
+        ],
+        "idealFor": "Remeselníci, kliniky, reštaurácie, malé a stredné firmy",
+        "priceRange": "od 1 200 €"
+      },
+      "eshop": {
+        "title": "E-shopy",
+        "tagline": "Predajný kanál, ktorý funguje 24/7",
+        "description": "E-shopy postavené na moderných platformách s dôrazom na rýchlosť, konverziu a jednoduchú správu. Napojené na platobné brány, dopravcov a účtovníctvo.",
+        "deliverables": [
+          "Katalóg produktov + filtrovanie",
+          "Košík, pokladňa, platobné brány (Stripe, GoPay)",
+          "Napojenie na Packetu/GLS/Zásielkovňu",
+          "Administrácia objednávok",
+          "SEO a napojenie na Google Merchant",
+          "GDPR, súhlasy, VOP"
+        ],
+        "idealFor": "Menšie značky, butiky, remeselníci, začínajúci predajcovia",
+        "priceRange": "od 2 500 €"
+      },
+      "webapp": {
+        "title": "Webové aplikácie",
+        "tagline": "Digitálny nástroj na mieru vášmu procesu",
+        "description": "Keď štandardný web nestačí — rezervačné systémy, interné nástroje, dashboardy, SaaS produkty. Od prototypu až po produkčnú aplikáciu.",
+        "deliverables": [
+          "Architektúra a databázový návrh",
+          "Autentifikácia a role používateľov",
+          "Frontend v Next.js / React",
+          "Backend API (Node.js, serverless)",
+          "Admin rozhranie",
+          "Integrácie na tretie strany (API)"
+        ],
+        "idealFor": "Firmy, ktoré potrebujú zautomatizovať proces alebo spustiť digitálny produkt",
+        "priceRange": "od 4 000 €"
+      },
+      "landing": {
+        "title": "Landing pages",
+        "tagline": "Jedna stránka, jeden cieľ — konverzia",
+        "description": "Vysoko konverzná mikrostránka pre jeden produkt, kampaň alebo udalosť. Rýchlo spustená, napojená na analytiku a A/B testovanie.",
+        "deliverables": [
+          "Copywriting orientovaný na konverziu",
+          "Vizuál na mieru",
+          "Formuláre + napojenie na CRM/email",
+          "Napojenie na Meta/Google pixel",
+          "Rýchle načítanie (Lighthouse 95+)",
+          "Spustenie do 5–10 dní"
+        ],
+        "idealFor": "Kampane, produktové uvedenia, reklamné klikacie stránky",
+        "priceRange": "od 600 €"
+      },
+      "redesign": {
+        "title": "Redizajn existujúceho webu",
+        "tagline": "Váš starý web zaslúži druhú šancu",
+        "description": "Audit, nová vizuálna identita a technické prepracovanie existujúceho webu. Zachovám, čo funguje, opravím, čo nefunguje, zrýchlim, čo je pomalé.",
+        "deliverables": [
+          "UX audit a analýza konkurencie",
+          "Nový dizajn v súlade so značkou",
+          "Migrácia obsahu a presmerovania",
+          "Technický refactor + rýchlosť",
+          "SEO checklist pred/po",
+          "Plán A/B testov"
+        ],
+        "idealFor": "Firmy so starším webom, ktorý stratil konverziu alebo vyzerá zastaralo",
+        "priceRange": "od 1 500 €"
+      },
+      "seo": {
+        "title": "SEO & optimalizácia výkonu",
+        "tagline": "Rýchlejší web, viac organickej návštevnosti",
+        "description": "Technické SEO, Core Web Vitals, štrukturované dáta a výkonnostná optimalizácia. Konkrétne výsledky, merateľné cez Google Search Console a PageSpeed Insights.",
+        "deliverables": [
+          "Technický SEO audit",
+          "On-page optimalizácia",
+          "Schema.org štruktúrované dáta",
+          "Optimalizácia obrázkov a kódu",
+          "Core Web Vitals (LCP, CLS, INP)",
+          "Sitemap, robots.txt, interné linkovanie"
+        ],
+        "idealFor": "Weby, ktoré pomaly načítavajú alebo nemajú organickú návštevnosť",
+        "priceRange": "od 400 €"
+      }
+    }
+  },
+  "portfolio": {
+    "meta": {
+      "title": "Práce — WebKosice",
+      "description": "Prípadové štúdie a ukážky projektov — weby, e-shopy a webové aplikácie."
+    },
+    "hero": {
+      "kicker": "> portfolio",
+      "title": "Práce a prípadové štúdie",
+      "subtitle": "Vybrané projekty, na ktorých som v poslednom období pracoval. Každý prípad otvára pohľad do výzvy, riešenia a výsledkov."
+    },
+    "sampleBadge": "Ukážková prípadová štúdia",
+    "viewProject": "Prečítať prípadovú štúdiu",
+    "visitSite": "Navštíviť web",
+    "notFound": {
+      "title": "Projekt sa nenašiel",
+      "back": "Späť na portfólio"
+    },
+    "detail": {
+      "overview": "Prehľad",
+      "challenge": "Výzva",
+      "solution": "Riešenie",
+      "results": "Výsledky",
+      "stack": "Technológie",
+      "services": "Poskytnuté služby",
+      "year": "Rok",
+      "client": "Klient",
+      "duration": "Trvanie",
+      "backToAll": "Všetky práce"
+    }
+  },
+  "about": {
+    "meta": {
+      "title": "O mne — WebKosice",
+      "description": "Som freelance web developer v Košiciach. Navrhujem a programujem weby, e-shopy a aplikácie."
+    },
+    "hero": {
+      "kicker": "> about_me",
+      "title": "Som <accent>freelance web developer</accent> v Košiciach",
+      "lead": "Budujem weby už vyše 5 rokov — od jednoduchých vizitiek po komplexné webové aplikácie pre firmy po celom Slovensku. Pracujem ako one-man-studio: vy rokujete priamo so mnou, nie s account manažérom.",
+      "secondary": "Verím, že dobrý web nie je o peknom dizajne alebo rýchlom kóde — je o výsledkoch. Preto každý projekt začínam otázkami, nie šablónami."
+    },
+    "valuesTitle": "Princípy, ktorým verím",
+    "values": {
+      "craft": {
+        "title": "Remeselný prístup",
+        "description": "Každý riadok kódu je napísaný s myšlienkou. Žiadne generované kilogramy JavaScriptu."
+      },
+      "honesty": {
+        "title": "Priamočiara komunikácia",
+        "description": "Poviem vám pravdu — aj keď je nepohodlná. Jasné termíny, jasné ceny."
+      },
+      "longterm": {
+        "title": "Dlhodobé partnerstvo",
+        "description": "Nerobím one-shot projekty. Chcem, aby váš web rástol spolu s vaším biznisom."
+      },
+      "simple": {
+        "title": "Jednoduchosť nad komplexnosťou",
+        "description": "Najlepšie riešenie je to, ktoré stačí. Zbytočná technológia je náklad, nie hodnota."
+      }
+    },
+    "stackTitle": "S čím pracujem",
+    "stackSubtitle": "Nástroje, ktoré denne používam. Nie všetky sa hodia na každý projekt — vyberám podľa toho, čo dáva zmysel.",
+    "processTitle": "Takto vyzerá spolupráca",
+    "cta": {
+      "title": "Povedzme si o vašom projekte",
+      "subtitle": "Úvodná konzultácia je vždy zdarma a nezáväzná.",
+      "button": "Napísať mi"
+    }
+  },
+  "contact": {
+    "meta": {
+      "title": "Kontakt — WebKosice",
+      "description": "Napíšte mi o svojom projekte. Odpoveď do 24 hodín."
+    },
+    "hero": {
+      "kicker": "> contact",
+      "title": "Povedzme si o vašom projekte",
+      "subtitle": "Napíšte mi pár riadkov a do 24 hodín sa vám ozvem. Úvodná konzultácia je zdarma."
+    },
+    "form": {
+      "name": "Meno",
+      "namePlaceholder": "Vaše meno",
+      "email": "Email",
+      "emailPlaceholder": "vas@email.sk",
+      "company": "Firma (voliteľné)",
+      "companyPlaceholder": "Názov firmy",
+      "budget": "Orientačný rozpočet",
+      "budgetOptions": {
+        "small": "do 1 500 €",
+        "medium": "1 500 – 5 000 €",
+        "large": "5 000 – 15 000 €",
+        "enterprise": "nad 15 000 €",
+        "unsure": "zatiaľ neviem"
+      },
+      "message": "Správa",
+      "messagePlaceholder": "O čom je váš projekt? Aké máte ciele? Aký je termín?",
+      "submit": "Odoslať správu",
+      "submitting": "Odosielam…",
+      "consent": "Odoslaním súhlasíte so spracovaním kontaktných údajov na účely odpovede.",
+      "required": "Povinné pole",
+      "invalidEmail": "Neplatný email",
+      "tooShort": "Správa je príliš krátka",
+      "success": "Ďakujem, ozvem sa do 24 hodín.",
+      "successMailto": "Kliknite na tlačidlo nižšie a odošlite email zo svojho klienta.",
+      "openMail": "Otvoriť email",
+      "copyEmail": "Skopírovať email",
+      "copied": "Skopírované",
+      "error": "Niečo sa pokazilo. Skúste to prosím znova alebo napíšte priamo na email."
+    },
+    "info": {
+      "title": "Priamy kontakt",
+      "emailLabel": "Email",
+      "phoneLabel": "Telefón",
+      "locationLabel": "Lokácia",
+      "responseLabel": "Čas odozvy",
+      "responseValue": "do 24 hodín",
+      "hoursLabel": "Pracovný čas",
+      "hoursValue": "Pon – Pia, 9:00 – 18:00"
+    },
+    "faqTitle": "Rýchle odpovede"
+  },
+  "footer": {
+    "tagline": "Weby a webové aplikácie na mieru. Košice, Slovensko.",
+    "explore": "Prehľad",
+    "legal": "Právne",
+    "privacy": "Ochrana osobných údajov",
+    "terms": "Obchodné podmienky",
+    "social": "Sledujte ma",
+    "rights": "Všetky práva vyhradené.",
+    "madeIn": "Navrhnuté a postavené v Košiciach."
+  },
+  "testimonials": {
+    "items": {
+      "one": {
+        "quote": "Nový web nám priniesol 40 % viac dopytov už v prvom mesiaci. Komunikácia počas celého projektu bola super.",
+        "author": "Mária K.",
+        "role": "Majiteľka, remeselná cukráreň"
+      },
+      "two": {
+        "quote": "Rozumie technike aj biznisu. Poradil mi, kde šetriť a kde investovať. Odporúčam ďalej.",
+        "author": "Peter D.",
+        "role": "Konateľ, stavebná firma"
+      },
+      "three": {
+        "quote": "Flexibilný, rýchly, spoľahlivý. Náš e-shop beží hladko a admina zvládne aj moja mama.",
+        "author": "Lucia H.",
+        "role": "Zakladateľka, módna značka"
+      }
+    }
+  },
+  "faq": {
+    "items": {
+      "timeline": {
+        "question": "Ako dlho trvá vytvorenie webu?",
+        "answer": "Jednoduchá prezentačná stránka 2–4 týždne, štandardný firemný web 4–6 týždňov, e-shop 6–10 týždňov, webová aplikácia 8+ týždňov. Presný termín dostanete v cenovej ponuke."
+      },
+      "price": {
+        "question": "Koľko stojí nový web?",
+        "answer": "Záleží od rozsahu. Prezentačné weby štartujú od 1 200 €, e-shopy od 2 500 €, webové aplikácie od 4 000 €. Pred štartom vždy dostanete fixnú cenovú ponuku — žiadne skryté náklady."
+      },
+      "ownership": {
+        "question": "Komu patrí kód a doména?",
+        "answer": "Všetko patrí vám. Dostanete plný prístup ku zdrojovému kódu (GitHub/GitLab), hostingu aj doméne. Nikdy vás neblokujem."
+      },
+      "hosting": {
+        "question": "Ako je to s hostingom?",
+        "answer": "Odporúčam Vercel alebo Netlify pre weby a VPS pre náročnejšie aplikácie. Poradím vám najlacnejšie riešenie pre váš projekt, nastavím ho za vás a vy platíte priamo poskytovateľovi."
+      },
+      "support": {
+        "question": "Čo po spustení webu?",
+        "answer": "Som tu aj po launchi. Ponúkam mesačné balíky údržby, alebo fakturujem hodinovo pri menších zmenách. Nikdy vás nenechám v štichu."
+      },
+      "cms": {
+        "question": "Budem si vedieť web upravovať sám?",
+        "answer": "Áno. Pre firemné weby používam jednoduchý CMS (napr. Sanity alebo Payload), cez ktorý si texty a obrázky meníte bez zásahu do kódu. Prevediem vás ním osobne."
+      }
+    }
+  },
+  "common": {
+    "sampleNotice": "Ukážková prípadová štúdia"
+  },
+  "errors": {
+    "notFound": {
+      "title": "Stránka sa nenašla",
+      "subtitle": "Zdá sa, že ste trafili slepú uličku. Vráťme sa späť.",
+      "home": "Späť na domov"
+    }
+  }
+}
