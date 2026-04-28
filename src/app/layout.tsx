@@ -26,14 +26,14 @@ export const metadata: Metadata = {
       {
         url: "/logo_md.png",
         type: "image/png",
-        sizes: "245x245",
+        sizes: "1254x1254",
       },
     ],
     apple: [
       {
         url: "/logo_md.png",
         type: "image/png",
-        sizes: "245x245",
+        sizes: "1254x1254",
       },
     ],
     shortcut: ["/logo_md.png"],
