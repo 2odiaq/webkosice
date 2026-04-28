@@ -21,6 +21,23 @@ export const metadata: Metadata = {
     default: "WebKosice — Custom Web Development",
     template: "%s · WebKosice",
   },
+  icons: {
+    icon: [
+      {
+        url: "/logo_md.png",
+        type: "image/png",
+        sizes: "245x245",
+      },
+    ],
+    apple: [
+      {
+        url: "/logo_md.png",
+        type: "image/png",
+        sizes: "245x245",
+      },
+    ],
+    shortcut: ["/logo_md.png"],
+  },
 };
 
 export const viewport: Viewport = {
